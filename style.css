@@ -1,0 +1,34 @@
+div{
+    width: 500px;
+    height: 770px;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    padding: 20px;
+}
+h1{
+    background-color: aquamarine;
+    width: 300px;
+    border-radius: 50px;
+}
+.div1{
+    width: 400px;
+    height: 400px;
+}
+.index{
+    display: inline-block; 
+    background-color: #F8EDE3; 
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+.forget{
+    display: inline-block; 
+    background-color: #F8EDE3; 
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 310px;
+}
+body{
+    background-color: #5A639C;
+}
+
